@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Geodesica</string>
+    <string-array name="classes_funcoes">
+        <item>Trigonometria</item>
+        <item>Topografia Básica</item>
+    </string-array>
+    <string-array name="subclasses_funcoes_topografia_basica">
+        <item>Azimute</item>
+        <item>AzimuteAtan2</item>
+        <item>Distancia</item>
+        <item>AzimDist</item>
+    </string-array>
+    <string-array name="subclasses_funcoes_trigonometria">
+        <item>Arsin</item>
+        <item>Arcos</item>
+        <item>RadGraus</item>
+        <item>GMS</item>
+        <item>MsDeg</item>
+        <item>DegRad</item>
+    </string-array>
+</resources>
